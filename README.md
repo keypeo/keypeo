@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-<!--
-**keypeo/keypeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Economic Research
 - 🌱 I’m currently learning AI stuff
@@ -13,4 +9,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: PM
 - 😄 Pronouns: He
 - ⚡ Fun fact: None
--->
+
